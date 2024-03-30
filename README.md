@@ -1,0 +1,1 @@
+This project include the fianl project of the course Introducing Machine Learning with AWS of Udacity which is basically  build domain expert model  using the pretrained model of model_id, model_version = "meta-textgeneration-llama-2-7b", "2.*" using the llama27b model which is  fine tuned on the finance dataset 
